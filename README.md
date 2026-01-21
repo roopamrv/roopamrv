@@ -12,7 +12,7 @@ Data Engineer | Big Data | AI/ML Foundations<br><br>I’m a Data Engineer with a
 ![](https://nirzak-streak-stats.vercel.app/?user=roopamrv&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roopamrv&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -21,4 +21,4 @@ Data Engineer | Big Data | AI/ML Foundations<br><br>I’m a Data Engineer with a
 ---
 [![](https://visitcount.itsvg.in/api?id=roopamrv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
